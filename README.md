@@ -116,7 +116,7 @@ To get started, follow these simple steps:
 - <b>Fork the Repository:</b> Start by forking our project repository to your own GitHub account. This will create a copy of the project that you can freely modify and experiment with.
 - <b>Clone the Repository:</b> Once you have forked the repository, clone it to your local machine using the following command:
 ```
-git clone https://github.com/your-username/repository.git
+git clone https://github.com/sayampradhan/repository.git
 ```
 - <b>Create a New Branch:</b> Before making any changes, create a new branch to work on. This helps in isolating your changes from the main codebase. Use the following command to create a new branch:
 ```
